@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#comments as of 4-12-15 DCS
 """
 __version__ = "$Revision: 1.6 $"
 __date__ = "$Date: 2004/09/16 16:11:34 $"
