@@ -27,6 +27,7 @@ class TestNotebook(model.Background):
         self.components.notebook.AddPage(panel, 'wx panel', True)
 
         # you can't add a wx.Frame to a notebook
+        #can this be done in wcgalde?
 ##        frame = wx.Frame(self.components.notebook, -1)
 ##        frame.text1 = wx.TextCtrl(frame, -1, 'Notebook 2', (5, 5))
 ##        self.components.notebook.AddPage(frame, 'frame', True)
